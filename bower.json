@@ -1,0 +1,18 @@
+{
+  "name": "js-library-boilerplate",
+  "version": "0.0.1",
+  "description": "Preconfigured boilerplate for writing JavaScript libraries",
+  "homepage": "https://github.com/kamilogorek/js-library-boilerplate",
+  "author": "Kamil Ogórek <kamil.ogorek@gmail.com>",
+  "license": "Public Domain",
+  "private": true,
+  "main": "src/main.js",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.8",
+    "almond": "~0.2.6"
+  }
+}
