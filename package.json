@@ -10,7 +10,7 @@
     "url": "https://github.com/kamilogorek/js-library-boilerplate"
   },
   "scripts": {
-    "test": "grunt build:requirejs"
+    "test": "grunt build:requirejs --verbose"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -19,6 +19,7 @@
     "grunt-contrib-connect": "~0.5.0",
     "grunt-contrib-jshint": "~0.6.4",
     "grunt-contrib-requirejs": "~0.4.1",
-    "uglify-js": "~2.4.0"
+    "uglify-js": "~2.4.0",
+    "grunt-cli": "~0.1.11"
   }
 }
