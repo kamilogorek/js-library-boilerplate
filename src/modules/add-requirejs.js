@@ -7,6 +7,6 @@
 
 defie([], function () {
     return function (a, b) {
-        return a + b;
+        return a + 
     }
 });
