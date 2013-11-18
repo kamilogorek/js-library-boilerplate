@@ -10,7 +10,7 @@
     "url": "https://github.com/kamilogorek/js-library-boilerplate"
   },
   "scripts": {
-      "test": "grunt build:requirejs"
+    "test": "grunt build:requirejs"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
