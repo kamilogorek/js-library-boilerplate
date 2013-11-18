@@ -5,8 +5,8 @@
 
 'use strict';
 
-define([], function () {
+defie([], function () {
     return function (a, b) {
         return a + b;
-    };
+    }
 });
