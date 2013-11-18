@@ -6,7 +6,7 @@
 'use strict';
 
 defie([], function () {
-    return function (a, b) {
+    return function a, b) {
         return a + 
     }
 });
